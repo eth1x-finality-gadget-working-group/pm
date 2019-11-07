@@ -68,7 +68,7 @@ The community is concerned about "minting money in two spots", which ties into t
 
 - At least two ways to do this i.) have operators run a separate Eth2 client alongside their Eth1 client or ii.) embed an Eth2 client inside of Eth1. [16:35](https://youtu.be/ot_io5Xi13M?t=995)
 - Having each Eth1 node connect to a separate Eth2 node seems like the most straight forward solution. [18:10](https://youtu.be/ot_io5Xi13M?t=1090)
-- Possibility for "herd immunity" where Eth1 nodes that are connected to the beacon chain filter out Eth1 blocks with bad finality information. [18:39](https://youtu.be/ot_io5Xi13M?t=1119)
+- Possibility for "herd immunity" where Eth1 nodes that are connected to the beacon chain filter out Eth1 blocks with bad finality information. Involves the scenario where a third-party/miner/etc. is putting finality data inside the eth1 protocol so that nodes not following the beacon chain can still access it. [18:39](https://youtu.be/ot_io5Xi13M?t=1119)
 - The Eth2 lightclient protocol is very simple, but it depends on phase 1, so a phase 0 finality gadget would require Eth1 node operators to also run a full beacon node. [20:27](https://youtu.be/ot_io5Xi13M?t=1228)
 
 ### Finality Latency
