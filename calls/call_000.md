@@ -77,7 +77,7 @@ Moving ahead with the finality gadget implies coordinating efforts across eth1 a
 - Initially the follow distance on Eth2 would be 1024 blocks (~4 hours), but would be reduced gradually, potentially down to a few blocks (~1 minute). This does not include epoch finalization, which adds another 12 minutes. [21:30](https://youtu.be/ot_io5Xi13M?t=1290)
 - The follow distance would need to be changed gradually, since the Eth1 chain becomes more reliable as the beacon chain acknowledges more blocks, "it's a catch 22". Starting with a short follow distance or dramatically decreasing it could result in Eth2 nodes falling out of sync. [24:45](https://youtu.be/ot_io5Xi13M?t=1485)
 - Prototyping and simulating attacks would be valuable. [26:00](https://youtu.be/ot_io5Xi13M?t=1560)
-- If the Beacon chain fails, the finality gadget would just stall and the Eth1 chain would keep finalizing on POW. [27:14](https://youtu.be/ot_io5Xi13M?t=1634)
+- If the Beacon chain fails, the finality gadget would just stall and the Eth1 chain proceed with POW consensus. [27:14](https://youtu.be/ot_io5Xi13M?t=1634)
 
 ## Closing Thoughts
 [27:40](https://youtu.be/ot_io5Xi13M?t=1660)
