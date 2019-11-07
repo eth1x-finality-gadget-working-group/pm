@@ -61,7 +61,7 @@ The community is concerned about "minting money in two spots", which ties into t
 
 - The hardfork schedule is in flux and there are different release models under consideration. [9:18](https://youtu.be/ot_io5Xi13M?t=558)
 - A release timeline that adds small changes to the network more frequently is desirable, as opposed to larger releases with less frequency. [11:44](https://youtu.be/ot_io5Xi13M?t=704)
-- Issuance reduction would require a hardfork, however, a finality gadget without an issuance change would not necessarily require a hardfork.  [12:55](https://youtu.be/ot_io5Xi13M?t=775)
+- [Hardfork vs softfork] Issuance reduction would require a hardfork, however, a finality gadget without an issuance change would not necessarily require a hardfork.  [12:55](https://youtu.be/ot_io5Xi13M?t=775)
 
 ### Eth1 Beacon Chain Awareness
 [15:20](https://youtu.be/ot_io5Xi13M?t=920)
