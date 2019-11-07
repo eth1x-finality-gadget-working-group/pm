@@ -58,7 +58,7 @@ The community is concerned about "minting money in two spots", which ties into t
 
 ### Hardfork Schedule
 [9:18](https://youtu.be/ot_io5Xi13M?t=558)
-
+Moving ahead with the finality gadget implies coordinating efforts across eth1 and eth2 chains. The hard fork process in eth1 (and its future) are discussed:
 - The hardfork schedule is in flux and there are different release models under consideration. [9:18](https://youtu.be/ot_io5Xi13M?t=558)
 - A release timeline that adds small changes to the network more frequently is desirable, as opposed to larger releases with less frequency. [11:44](https://youtu.be/ot_io5Xi13M?t=704)
 - [Hardfork vs softfork] Issuance reduction would require a hardfork, however, a finality gadget without an issuance change would not necessarily require a hardfork.  [12:55](https://youtu.be/ot_io5Xi13M?t=775)
