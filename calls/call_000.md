@@ -4,7 +4,7 @@
 
 **Video**: https://www.youtube.com/watch?v=ot_io5Xi13M
 
-**Meeting Date/Time**: ????
+**Meeting Date/Time**: Wed, August 14, 2019
 
 **Duration**: 41:28
 
@@ -15,8 +15,8 @@
 - Bryant Eisenbach
 - Danny Ryan
 - Danno Ferrin
-- ????
-- Alexey Akhunov 
+- Wesley Graham
+- Alexey Akhunov
 
 ## Introduction:
 [0:00](https://youtu.be/ot_io5Xi13M)
@@ -41,7 +41,7 @@ Danny Ryan: Research at the Ethereum Foundation. Has also worked on a proposal s
 Danno Ferrin: Works on the Eth1 side of PegaSys at Consensys.
 [5:27](https://youtu.be/ot_io5Xi13M?t=327)
 
-????
+Wesley Graham: Working with Fourth State Networks.
 [5:58](https://youtu.be/ot_io5Xi13M?t=358)
 
 ## Discussions
